@@ -58,7 +58,6 @@ exports.login = catchAsync(async (req, res, next) => {
   const token = signToken(user._id);
   const jwtMaxTime = 3 * 24 * 60 * 60 * 1000;
   res.cookie('jwt', token, { maxAge: jwtMaxTime });
-  // console.log(res);
   user.password = undefined;
   res.status(200).json({
     status: 'sucess',
