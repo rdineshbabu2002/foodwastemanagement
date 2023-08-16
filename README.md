@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Zero Waste</h1>
 
-<p align="center"><img src="https://assets.thehansindia.com/h-upload/2020/04/22/963681-orphanages.webp" alt="project-image"></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.colorado.edu%2Fecenter%2F2022%2F02%2F16%2Freducing-food-waste-kitchen&psig=AOvVaw1pPbxBLUiRsj79_fFzmQzD&ust=1692276459632000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCs3KGb4YADFQAAAAAdAAAAABAD"></p>
 
 <p id="description">It help food for needy people and provide direct contact between donar and user. By doing this we can reduce food waste .</p>
 
